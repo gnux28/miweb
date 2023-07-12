@@ -1,2 +1,2 @@
-chanchito felis
-chanchito feliz 
+print "hola "
+print "chau"
